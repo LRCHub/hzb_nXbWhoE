@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "New Order",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-01-13T22:27:34.883865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The New Order",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/01_The_New_Order_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The New Order",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/02_The_New_Order_Testament.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Order",
+      "artist": "U.K. Subs",
+      "has_synced": false,
+      "path": "select/03_New_Order_U.K._Subs.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Order",
+      "artist": "UK Subs",
+      "has_synced": false,
+      "path": "select/04_New_Order_UK_Subs.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Order",
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "has_synced": true,
+      "path": "select/05_New_Order_MASS_OF_THE_FERMENTING_DREGS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "0609 - New Order - Blue Monday",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/06_0609_-_New_Order_-_Blue_Monday_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "0675 - New Order - True Faith",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/07_0675_-_New_Order_-_True_Faith_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The New Order",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/08_The_New_Order_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Regret (New Order Mix)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/09_Regret_(New_Order_Mix)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Order (feat. Holybrune)",
+      "artist": "Dabeull feat. Holybrune",
+      "has_synced": true,
+      "path": "select/10_New_Order_(feat._Holybrune)_Dabeull_feat._Holybrune.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New Order (Original Mix)",
+      "artist": "Dabeull & Holybrune",
+      "has_synced": true,
+      "path": "select/11_New_Order_(Original_Mix)_Dabeull_&_Holybrune.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Order (feat. Taylor Barber)",
+      "artist": "The Gloom In The Corner",
+      "has_synced": true,
+      "path": "select/12_New_Order_(feat._Taylor_Barber)_The_Gloom_In_The_Corner.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Order T-Shirt",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/13_New_Order_T-Shirt_The_National.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The New Order",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/14_The_New_Order_Testament.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A New Order",
+      "artist": "Regarde Les Hommes Tomber",
+      "has_synced": true,
+      "path": "select/15_A_New_Order_Regarde_Les_Hommes_Tomber.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The New Order (Live in Alcatraz)",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/16_The_New_Order_(Live_in_Alcatraz)_Testament.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Order",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_New_Order_常闇トワ.txt"
+    }
+  ]
+}
